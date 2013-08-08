@@ -11,4 +11,4 @@ Just draw the owl.
 ```php
 $paypal = new Paypal();
 $response = $paypal->request('YOUR OPERATION', $ArrayToBeAddedToRequest);
-```;
+```
